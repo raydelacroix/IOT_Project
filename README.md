@@ -27,5 +27,6 @@ Le but de ce projet est de surveiller la température ambiante et d'envoyer les 
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-depot.git
-   cd votre-depot
+   git clone https://github.com/votre-utilisateur/votre-depot.git(https://github.com/raydelacroix/IOT_Project.git)
+   
+
