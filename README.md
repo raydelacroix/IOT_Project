@@ -4,13 +4,13 @@ Ce projet consiste à envoyer des données de température à un smartphone en u
 
 ## Table des Matières 📋
 
-- [Introduction](#introduction)
-- [Technologies Utilisées](#technologies-utilisées)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Configuration de Mosquitto](#configuration-de-mosquitto)
-- [Contribuer](#contribuer)
-- [License](#license)
+- [Introduction](#introduction) (Chaîne YouTube: [Tech With Tim](https://www.youtube.com/c/TechWithTim))
+- [Technologies Utilisées](#technologies-utilisées) (Chaîne YouTube: [Traversy Media](https://www.youtube.com/c/TraversyMedia))
+- [Installation](#installation) (Chaîne YouTube: [The Net Ninja](https://www.youtube.com/c/TheNetNinja))
+- [Utilisation](#utilisation) (Chaîne YouTube: [Corey Schafer](https://www.youtube.com/c/Coreyms))
+- [Configuration de Mosquitto](#configuration-de-mosquitto) (Chaîne YouTube: [HiveMQ](https://www.youtube.com/c/HiveMQ))
+- [Contribuer](#contribuer) (Chaîne YouTube: [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp))
+- [License](#license) (Chaîne YouTube: [Computerphile](https://www.youtube.com/c/Computerphile))
 
 ## Introduction 🚀
 
