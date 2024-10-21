@@ -1,4 +1,4 @@
-# Projet de Détection de Température 🌡️📱
+# Projet de Détection de Température Dans une pièce où se trouve notre smartphone🌡️📱
 
 Ce projet consiste à envoyer des données de température à un smartphone en utilisant Docker, Mosquitto et Python. Il permet de collecter des informations de température et de les transmettre via un serveur MQTT.
 
