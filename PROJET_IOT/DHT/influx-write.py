@@ -2,8 +2,6 @@ import influxdb_client
 from influxdb_client.client.write_api import SYNCHRONOUS
 import random
 
-###log: rayon | projet_iot c'est le nom du l'organisation|   mdp : Davidoetjm2007@  | token API: N1Z1mxpqv85Lk6vr5UGtZODflDPdOZtG2m5lq9IBNDmwQ5PcqSnoYbR8gGi_axlaQTc_LMAjNrT1rlTzzetB1w==
-
 # tmp = random.random() * 100
 # hum = random.random() * 100
 # temperature = {
